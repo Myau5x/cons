@@ -1,0 +1,12 @@
+.pyc
+__pycache__
+.ipynb_checkpoints
+metastore_db
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
